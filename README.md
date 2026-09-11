@@ -21,7 +21,7 @@ retail-sales-analysis/
 ├── sql/
 │   └── retail_sales_analysis.sql             -- Consolidated SQL script (Schema + Cleaning + Analysis)
 │
-├── retail_analysis.ipynb                     -- Jupyter Notebook with complete data visualizations
+├── retail_analysis.ipynb                     -- Complete data visualizations
 └── README.md                                 -- Complete project documentation and findings
 ## Database Schema & Setup
 
