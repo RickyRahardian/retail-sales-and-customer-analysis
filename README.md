@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales and Customer Behavior Analysis (SQL & Python Project)
+# Retail Sales and Customer Behavior Analysis (SQL & Python Project)
 
 ## 📌 Project Overview
 
