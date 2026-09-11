@@ -20,3 +20,16 @@ retail-sales-analysis/
 ├── retail_analysis.ipynb                     -- Jupyter Notebook with complete data visualizations
 └── README.md                                 -- Complete project documentation and findings
 ```
+## 📊 Data Visualizations
+
+### 1. Monthly Revenue Trend
+![Monthly Revenue Trend](./monthly_revenue_trend.png)
+
+### 2. Revenue & Profit by Product Category
+![Revenue & Profit by Product Category](./revenueprofit_by_productcategory.png)
+
+### 3. Total Revenue by Customer Age Group
+![Total Revenue by Customer Age Group](./revenue_age_group.png)
+
+### 4. Peak Transaction Hours
+![Peak Transaction Hours](./peak_hours_chart.png)
