@@ -20,3 +20,4 @@ retail-sales-analysis/
 ├── retail_analysis.ipynb                     -- Jupyter Notebook with complete data visualizations
 └── README.md                                 -- Complete project documentation and findings
 ```
+👉 **[Click here to view the full interactive Jupyter Notebook](./retail_sales_analysis.ipynb)**
