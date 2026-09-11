@@ -25,6 +25,12 @@ retail-sales-analysis/
 └── README.md                                 -- Complete project documentation and findings
 ## Database Schema & Setup
 
+## 📊 Data Visualizations
+
+All visual charts, monthly trend lines, and demographic segmentations were generated using Python (`pandas` and `matplotlib`). 
+
+👉 **[Click here to view all interactive charts in the Jupyter Notebook](./retail_analysis.ipynb)**
+
 ### Table Structure
 
 ```sql
